@@ -31,7 +31,7 @@ while True:
             
             with open(values[0], 'wb') as dec_file:
                 dec_file.write(decrypted)
-                sg.popup("Arquivo criptografado com sucesso", "Obrigado por utilizar!")
+                sg.popup("Arquivo Descriptado com sucesso", "Obrigado por utilizar!")
                 break
     if event == sg.WIN_CLOSED or event == 'Cancel':
         break
