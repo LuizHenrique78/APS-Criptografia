@@ -3,7 +3,7 @@
  
   Bibliotecas ultilizadas.
  
- pip install pysimplegui #Adiciona UI \n
+ pip install pysimplegui #Adiciona UI 
  pip install cryptography #Criptografa e descriptografa arquivos
  
  
